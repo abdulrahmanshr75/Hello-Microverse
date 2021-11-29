@@ -8,14 +8,23 @@ Simple website with text
 
 Simple website
 
+## Learning Objectives
+
+- Create branches with different base branches.
+- Understand the concept of version control.
+- Follow Gitflow.
+- Open pull requests in GitHub.
+- Write descriptive, easy to understand commit messages.
+- Write short, detailed, easy to understand descriptions of pull requests.
+- Write a descriptive and easy to understand README in business English for every project submitted.
+- Demonstrate an ability to submit a project for code review.
+
 ## Built With
 
 - HTML
 - CSS
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- HTML Linters
+- CSS Linters
 
 ## Authors
 
@@ -23,22 +32,6 @@ Simple website
 
 - GitHub: [@githubhandle](https://github.com/abdulrahmanshr75)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahman-shrshar-721144161/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
