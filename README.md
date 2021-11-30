@@ -1,12 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Abdulrahman's website
+## Abdulrahman's website
 
-Simple website with text
+- Simple website with text
 
 ![screenshot](./screenshot.png)
 
-Simple website
+- Simple website
 
 ## Learning Objectives
 
@@ -23,6 +23,7 @@ Simple website
 
 - copy the Url from my github account
 - clone it to your local machine
+- git clone git@github.com:abdulrahmanshr75/Hello-Microverse.git
 
 ## Prerequisites
 
@@ -30,7 +31,9 @@ Simple website
 - Install
 - Run tests
 - Deployment
-- Built With
+
+## Built With
+
 - HTML and CSS
 
 ## technology used
@@ -39,8 +42,10 @@ Simple website
 - VScode
 - html & css
 - github
-- Live Demo
-- This site was built using GitHub Pages.
+
+## Live Demo
+
+- https://abdulrahmanshr75.github.io/Hello-Microverse/
 
 ## Author
 
@@ -50,16 +55,16 @@ Simple website
 
 ## Acknowledgments
 
-Hat tip to my coding partners and code reviewer for their contribution
+- Hat tip to my coding partners and code reviewer for their contribution
 
 ## Show your support
 
-give a thumb 👍 if you like this project
+- give a thumb 👍 if you like this project
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome!
+- Contributions, issues, and feature requests are welcome!
 
 ## License
 
-This project is MIT licensed
+- This project is MIT licensed
