@@ -19,20 +19,47 @@ Simple website
 - Write a descriptive and easy to understand README in business English for every project submitted.
 - Demonstrate an ability to submit a project for code review.
 
-## Built With
+## Getting Started
 
-- HTML
-- CSS
-- HTML Linters
-- CSS Linters
+- copy the Url from my github account
+- clone it to your local machine
 
-## Authors
+## Prerequisites
 
-👤 Abdulrahman Shrshar
+- Setup
+- Install
+- Run tests
+- Deployment
+- Built With
+- HTML and CSS
 
-- GitHub: [@githubhandle](https://github.com/abdulrahmanshr75)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahman-shrshar-721144161/)
+## technology used
 
-## 📝 License
+- Linters
+- VScode
+- html & css
+- github
+- Live Demo
+- This site was built using GitHub Pages.
 
-This project is [MIT](./MIT.md) licensed.
+## Author
+
+- Name: Abdulrahman Shrshar
+- Github: https://github.com/abdulrahmanshr75
+- LinkedIn: https://www.linkedin.com/in/abdulrahman-shrshar-721144161/
+
+## Acknowledgments
+
+Hat tip to my coding partners and code reviewer for their contribution
+
+## Show your support
+
+give a thumb 👍 if you like this project
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## License
+
+This project is MIT licensed
